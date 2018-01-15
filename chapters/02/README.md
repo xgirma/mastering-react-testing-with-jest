@@ -1,6 +1,6 @@
 # 02. understanding automatic mocking
 
-[<<< 01. what is Jest](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/01)
+[<<< 01. what is Jest](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/01)
 
 So what is automatic mocking? Why does Jest mock modules automatically, and why is it important to us as developers? 
 
@@ -68,4 +68,4 @@ Why do we - want to use mocks, why should I switch from Jasmine or Karma, why sh
 
 **[5]** Easier for other developers to understand. when you write a test with mocks, - you're forced to specify everything that's supposed to go inside that test right in that file.
 
-[>>> 03 understanding Jest API](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/03)
+[>>> 03 understanding Jest API](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/03)

@@ -1,6 +1,6 @@
 # 05. toggling automatic mocking
 
-[<<< 04. disabling mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/04)
+[<<< 04. disabling mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/chapters/04)
 
 By default Jest automatically mocks everything. 
 
@@ -10,4 +10,4 @@ A good example is if you have a very **small application with only a few modules
 
 calling **jest.autoMockOff()** is completely equivalent to calling **dontMock()** on every single dependency, - so there's really not a lot of magic going on there with those two functions. 
 
-[>>> 06. specifying manual mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/06)
+[>>> 06. specifying manual mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/chapters/06)

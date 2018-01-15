@@ -1,6 +1,6 @@
 # 03. understanding Jest API
 
-[<<< 02 understanding automatic mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/02)
+[<<< 02 understanding automatic mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/02)
 
 An in-depth look at the Jest API.
 
@@ -20,4 +20,4 @@ You're probably more familiar with the BDD style, - which includes common keywor
 
 Generally going to be working with mocks when you're doing Jest. - A lot of this course will be about learning what do the mocks that Jest provides have, what functionality do - they have because, as we know, **mocks contain a lot more functionality than mere stubs**.
 
-[>>> 04. disabling mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/04)
+[>>> 04. disabling mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/04)

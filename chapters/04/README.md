@@ -1,6 +1,6 @@
 # 04. disabling mocking
 
-[<<< 03. understanding Jest API](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/03)
+[<<< 03. understanding Jest API](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/03)
 
 ```javascript
 jest.dontMock("myModule");
@@ -30,4 +30,4 @@ So with libraries like jQuery, you're going to have to **manually - specify you 
 
 > Manual don't mock => package.json
 
-[>>> 05. toggling automatic mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/05)
+[>>> 05. toggling automatic mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/05)

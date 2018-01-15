@@ -5,14 +5,14 @@ Mastering React Testing with Jest by [Daniel Stern](https://www.pluralsight.com/
 
 ## Chapters
 
-[01. what is Jest](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/01)
+[01. what is Jest](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/01)
 
-[02. understanding automatic mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/02)
+[02. understanding automatic mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/02)
 
-[03. understanding Jest API](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/03)
+[03. understanding Jest API](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/03)
 
-[04. disabling mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/04)
+[04. disabling mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/04)
 
-[05. toggling automatic mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/05)
+[05. toggling automatic mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/05)
 
-[06. specifying manual mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/06)
+[06. specifying manual mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/06)

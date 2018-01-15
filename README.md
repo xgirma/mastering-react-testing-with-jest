@@ -18,3 +18,7 @@ Mastering React Testing with Jest by [Daniel Stern](https://www.pluralsight.com/
 [06. specifying manual mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/06)
 
 [07. defining a pre-processor](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/07)
+
+[08. mock function](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/08)
+
+[09. capabilities of mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/09)

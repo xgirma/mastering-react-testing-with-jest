@@ -5,6 +5,8 @@ Mastering React Testing with Jest by [Daniel Stern](https://www.pluralsight.com/
 
 ## Chapters
 
-[01. what is Jest]()
+[01. what is Jest](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/01)
 
-[02. understanding automatic mocking]()
+[02. understanding automatic mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/02)
+
+[03. understanding Jest API](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/03)

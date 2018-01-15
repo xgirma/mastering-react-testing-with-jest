@@ -26,4 +26,4 @@ Reality: Going a bit further into it, **React applications tend to use a lot of 
     
 In short, and we'll explain a lot more of this as we go on, when you're using - **Jest, you have to specifically say which modules you want to not mock**, **which modules you want to see the - actual thing of**, and in a React application where you have many modules, and it may be difficult for one - programmer, especially if they did not themselves program all the modules, to understand them, we're going to - find Jest is very, very useful. 
 
-[>>> 02. Understanding Automatic Mocking]()
+[>>> 02. Understanding Automatic Mocking](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/02)

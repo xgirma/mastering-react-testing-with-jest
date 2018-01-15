@@ -16,6 +16,6 @@ Generally, and by generally I mean almost 100% of the time, you're just going to
 
 <img width="300" alt="rectify" src="https://camo.githubusercontent.com/3dfbcb152a86884d2ef931e3e0ecc3e703ef52f9/68747470733a2f2f64337676366c703535716a6171632e636c6f756466726f6e742e6e65742f6974656d732f31353347326b31543155343433743144317a324c2f72656163746966792d6c6f676f2d322e706e673f582d436c6f75644170702d56697369746f722d49643d643430373439383635383733643762356162333263383038353231353066373426763d3862336563323261">
 
-<img width="300" alt="babel" src=https://raw.githubusercontent.com/babel/logo/master/babel.png">
+<img width="300" alt="babel" src="https://raw.githubusercontent.com/babel/logo/master/babel.png">
 
 [08. specifying manual mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/08)

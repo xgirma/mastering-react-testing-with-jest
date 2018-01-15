@@ -1,6 +1,6 @@
 # 07. defining a pre-processor
 
-[06. specifying manual mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/06)
+[<<< 06. specifying manual mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/06)
 
 well it's everyone's favorite part of writing an application that uses **JSX, or ES6, or anything new**, - and that's `working with a preprocessor`. 
 
@@ -18,4 +18,4 @@ Generally, and by generally I mean almost 100% of the time, you're just going to
 
 <img width="300" alt="babel" src="https://raw.githubusercontent.com/babel/logo/master/babel.png">
 
-[08. specifying manual mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/08)
+[>>> 08. specifying manual mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/08)

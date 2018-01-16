@@ -12,4 +12,4 @@ So for a quick overview of our app, it's basically a `simple shopping cart app`.
 
 **React:** We'll be using React to visualize - everything the user's going to see. Not only that, but React is going to run on our front end for the live - single page app and on the back end to facilitate a fast page load 
 
-[11. capabilities of mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/11)
+[11. scaffold folders and package](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/11)

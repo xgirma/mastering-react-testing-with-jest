@@ -23,6 +23,10 @@ Mastering React Testing with Jest by [Daniel Stern](https://www.pluralsight.com/
 
 [09. capabilities of mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/09)
 
+[10. scaffolding the App](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/10)
+
+[11. scaffold folders and package](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/11)
+
 
 ## Footnote
 Official source-code repo [jest-examplar](https://github.com/danielstern/jest-examplar)

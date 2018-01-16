@@ -20,19 +20,19 @@ The first thing to do is add a test directory. I'll call that _tests_ with a dun
 
 Alright, finally we need to update our **package.json** in Jest to work properly. 
 
-    1. we need to describe a preprocessor, "scriptPreprocessor": "<rootDir>/node_modules/babel-jest"
+**[1.]** we need to describe a preprocessor, "scriptPreprocessor": "<rootDir>/node_modules/babel-jest"
      
 A **preprocessor** **is what will be run before Jest runs** to turn our ES6 and React into easily digestible JavaScript code.
 
 **Babel-jest** basically allows us to seamlessly plug in Babel, with Jest.
 
-    2. Next, we need to define what extensions Jest is supposed to test. "testFileExtensions": ["es6", "js"]
+**[2.]** Next, we need to define what extensions Jest is supposed to test. "testFileExtensions": ["es6", "js"]
     
 Now any files that end with .es6 or .js will be tested. 
 
-    3. So this covers our test files, but not the actual files that will be tested,so we'll make a new entry called moduleFileExtensions. "moduleFileExtensions": ["es6", "js"]
+**[3.]** So this covers our test files, but not the actual files that will be tested,so we'll make a new entry called moduleFileExtensions. "moduleFileExtensions": ["es6", "js"]
     
-    4. Finally, we're going to want to collect coverage when we run our Jest test, so all we have to do to make this - happen is make **collectCoverage** `true`. 
+**[4.]** Finally, we're going to want to collect coverage when we run our Jest test, so all we have to do to make this - happen is make **collectCoverage** `true`. 
     
 ```diff
 {

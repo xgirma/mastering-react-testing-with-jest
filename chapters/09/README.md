@@ -1,6 +1,6 @@
 # 09. capabilities of mocks
 
-[08. mock function](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/08)
+[<<< 08. mock function](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/08)
 
 What can a mock do? Is it really that much more than a stub? And the answer is yes. Mocks actually do a lot.
 
@@ -16,4 +16,4 @@ Finally, as if all that functionality weren't enough, **Jest has some custom mat
 
 So you could say expect and then pass your mock method, and then say **toBeCalledWith** and `pass the arguments - that it was expecting`. 
 
-[10. mock function](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/10)
+[>>> 10. mock function](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/10)

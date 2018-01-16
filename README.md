@@ -22,3 +22,7 @@ Mastering React Testing with Jest by [Daniel Stern](https://www.pluralsight.com/
 [08. mock function](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/08)
 
 [09. capabilities of mocks](https://github.com/xgirma/mastering-react-testing-with-jest/tree/master/chapters/09)
+
+
+## Footnote
+Official source-code repo [jest-examplar](https://github.com/danielstern/jest-examplar)
